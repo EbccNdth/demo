@@ -70,7 +70,7 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:0,Cần Thơ
 #EXTGRP:DIA_PHUONG
-https://mekongpassion.com/live/tv/chunklist_w1950678277.m3u8
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Kiên Giang
 #EXTGRP:DIA_PHUONG
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
