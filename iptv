@@ -45,9 +45,7 @@ https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000
 #EXTINF:0,VOV TV HD
 #EXTGRP:THOI_SU
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:0,NHÂN DÂN HD
-#EXTGRP:THOI_SU
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+
 
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Vĩnh Long 1 HD
