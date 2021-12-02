@@ -97,7 +97,9 @@ https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
 #EXTINF:0,Tiền Giang
 #EXTGRP:DIA_PHUONG
 http://thtg.vn:8001/stream_hi.m3u8
-
+#EXTINF:0,Hau Giang
+#EXTGRP:DIA_PHUONG
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-720p/chunks.m3u8
 
 #EXTINF:0,HTV3
 #EXTGRP:GIAI_TRI
