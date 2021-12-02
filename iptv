@@ -114,7 +114,9 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTVC Phim
 #EXTGRP:GIAI_TRI
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-
+#EXTINF:0,Cartoon Network
+#EXTGRP:GIAI_TRI
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,HBO
 #EXTGRP:GIAI_TRI
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
