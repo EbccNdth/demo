@@ -33,6 +33,7 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTGRP:VTV
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
+
 #EXTINF:0,ANTV HD
 #EXTGRP:THOI_SU
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -69,7 +70,6 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:0,Cần Thơ
 #EXTGRP:DIA_PHUONG
 https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0,Kiên Giang
 #EXTGRP:DIA_PHUONG
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -108,9 +108,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTC14 HD
 #EXTGRP:GIAI_TRI
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,VTC16 HD
-#EXTGRP:GIAI_TRI
-https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTVC Phim
 #EXTGRP:GIAI_TRI
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
