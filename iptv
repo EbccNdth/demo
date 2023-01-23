@@ -33,14 +33,14 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTGRP:VTV
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
-#EXTINF:0,VTV1 HD
-#EXTGRP:VTV_TB
+#EXTINF:0,VTV1 TB
+#EXTGRP:VTV
 http://tbtv.us/api/vieon/d535121f2112a72f3c369a254290f00269af22fa/vtv1-hd
-#EXTINF:0,VTV2 HD
-#EXTGRP:VTV_TB
+#EXTINF:0,VTV2 TB
+#EXTGRP:VTV
 http://tbtv.us/api/vieon/d535121f2112a72f3c369a254290f00269af22fa/vtv2-hd
-#EXTINF:0,VTV3 HD
-#EXTGRP:VTV_TB
+#EXTINF:0,VTV3 TB
+#EXTGRP:VTV
 http://tbtv.us/api/vieon/d535121f2112a72f3c369a254290f00269af22fa/vtv3-hd
 
 
